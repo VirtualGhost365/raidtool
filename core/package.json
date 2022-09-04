@@ -1,0 +1,15 @@
+{
+    "version": "1.4.5",
+    "title": " v1.4.5 | Application par 〔🕸⃤ 〕➳ /ɢʜᴏsᴛ sᴘɪᴅᴇʀ/#7524",
+    "name": "bot",
+    "beta": "Wp",
+    "creator": "〔🕸⃤ 〕➳ /ɢʜᴏsᴛ sᴘɪᴅᴇʀ/#7524",
+    "description": "raid bot + GUI",
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "discord.js": "^11.6.4",
+        "fs": "^0.0.1-security",
+        "moment": "^2.29.4",
+        "ms": "^2.1.3"
+    }
+}
